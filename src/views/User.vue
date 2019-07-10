@@ -2,7 +2,7 @@
   <div class="user">
     <p>{{user}}</p>
     <p class="map-wrapper">
-      <google-map :myLatLng="myLatLng" apiKey="AIzaSyAJalfCUBMNI0S7Rs6EnL0uYeqMhVmqj-U" />
+      <google-map :myLatLng="myLatLng" apiKey="API_KEY" />
     </p>
   </div>
 </template>
